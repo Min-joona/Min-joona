@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN Stack, Devops, and, Frameworks**
 
-- 👯 I’m looking to collaborate on [Code Quest](https://min-joona.github.io/Nesab-oil/)
+- 👯 I’m looking to collaborate on [Code Quest](https://min-joona.github.io/Code-Quest/)
 
 - 🤝 I’m looking for help with [learning-launchpad](https://min-joona.github.io/Learning-Launchpad/)
 
